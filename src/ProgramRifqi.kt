@@ -42,3 +42,5 @@ fun kelompok(){
 
     println(namamember)
 }
+
+var 1 = "1"
