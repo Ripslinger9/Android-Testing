@@ -5,6 +5,8 @@ fun main() {
     mobil()
     motor()
     pesawat()
+
+    kelompok()
 }
 
 fun mobil(){
@@ -32,4 +34,11 @@ fun pesawat(){
 
     println(planes)
     println(helis)
+}
+
+fun kelompok(){
+
+    var namamember = listOf("Hanif", "Rifqi", "Daffaan", "Hapis")
+
+    println(namamember)
 }
